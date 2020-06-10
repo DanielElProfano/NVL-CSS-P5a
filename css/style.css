@@ -1,0 +1,19 @@
+
+body{
+	background-color: white;
+}
+div{
+	width: 396px;
+	height: 264px;
+	background-color: orange;
+	border-color: red;
+	border-style: solid;
+	border-width: 10px;
+}
+img{
+	margin: 16px;
+	padding:32px;
+	background-color: yellow
+	
+	
+}
